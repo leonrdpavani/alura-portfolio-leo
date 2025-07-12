@@ -38,10 +38,15 @@ body {
     font-weight: 600;
     color: var(--cor-terciaria);
     text-decoration: none;
+    border: 1px solid var(--primary-color);
+    border-radius: 8px;
 }
 
 .header__menu__link:hover {
     cursor: grabbing;
+    background-color: var(--cor-hover);
+    border: 1px solid var(--cor-hover);
+    border-radius: 8px;
 }
 
 .apresentacao__conteudo__titulo-lista {
