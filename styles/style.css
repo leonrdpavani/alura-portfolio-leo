@@ -40,6 +40,7 @@ body {
     text-decoration: none;
     border: 1px solid var(--primary-color);
     border-radius: 8px;
+    padding: 1rem;
 }
 
 .header__menu__link:hover {
@@ -47,6 +48,7 @@ body {
     background-color: var(--cor-hover);
     border: 1px solid var(--cor-hover);
     border-radius: 8px;
+    padding: 1rem;
 }
 
 .apresentacao__conteudo__titulo-lista {
